@@ -12,6 +12,6 @@ https://github.com/wartw98/cwp-chinese
   
 ```Bash
 cd /usr/local/cwpsrv/var/services/users/cwp_lang
-wget https://github.com/wartw98/cwp-chinese/raw/master/file.zip
-unzip file.zip
+wget https://github.com/one-mo/cwp-chinese/raw/master/Chinese_Simplified.zip
+unzip Chinese_Simplified.zip
 ```
