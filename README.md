@@ -1,9 +1,9 @@
 # cwp-chinese  
-#安裝繁體化教學  
+#安裝简体教程
   
-##需先安裝wget與unzip  
+##需先安裝wget与unzip  
 
-###請輸入以下命令到SSH(需使用ROOT權限)  
+###输入以下命令到SSH(需使用ROOT權限)  
   
 ```Bash
 cd /usr/local/cwpsrv/var/services/users/cwp_lang
