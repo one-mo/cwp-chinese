@@ -8,7 +8,7 @@ https://github.com/wartw98/cwp-chinese
   
 ##需先安裝wget与unzip  
 
-###输入以下命令到SSH(需使用ROOT權限)  
+###输入以下命令到SSH(需使用ROOT权限)  
   
 ```Bash
 cd /usr/local/cwpsrv/var/services/users/cwp_lang
