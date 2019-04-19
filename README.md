@@ -1,3 +1,8 @@
+原汉化地址（繁体）：
+https://github.com/wartw98/cwp-chinese
+
+本人进行简单简化
+
 # cwp-chinese  
 #安裝简体教程
   
